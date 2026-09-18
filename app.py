@@ -468,7 +468,7 @@ def modulo_diario():
 # ----------------------------------------------------------------------------
 # Router
 # ----------------------------------------------------------------------------
-st.title("🧭 Liderazgo con IA")
+st.title("🧭 MiCoach de Liderazgo")
 st.caption(
     "Diagnostica tu estilo, practica conversaciones difíciles, lleva un diario "
     "con seguimiento y conversa con un coach — todo apoyado en Claude."
