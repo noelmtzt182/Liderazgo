@@ -8,7 +8,7 @@ import anthropic
 # ----------------------------------------------------------------------------
 # Configuración general
 # ----------------------------------------------------------------------------
-st.set_page_config(page_title="Liderazgo con IA", page_icon="🧭", layout="wide")
+st.set_page_config(page_title="MiCoach de Liderazgo", page_icon="🧭", layout="wide")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
